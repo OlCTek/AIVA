@@ -1,5 +1,5 @@
 # AIVA
-Artificially Intelligent Voice Assistant
+Artificially Intelligent Virtual Assistant
 
 This is a follow up to my ACS program. Seeing as I've changed so much already, I decided to continue under a new acronym (plus I think AIVA sounds cooler and pays testoment to AVA from Ex Machina and AIDA from Marvel's Agents of Shield).
 
