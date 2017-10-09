@@ -5,7 +5,7 @@ This is a follow up to my ACS program. Seeing as I've changed so much already, I
 
 As opposed to the ACS program, AIVA will be coded in Java with an optimized GUI and an Android App (still in development). As of now, some functionality is missing (particularly some of the settings windows), however the prototype of the core operation is complete and can be viewed in the folders included in this repository. 
 
-Recent updates:
+Recent updates include:
 - Voice recognition
 - User settings window
 - User ability to control the location of the home window using "move" commands
